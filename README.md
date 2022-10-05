@@ -1,2 +1,3 @@
 # Univariate-time-series-forecasting
-Here, a lot of ground is covered in order to pin down the best model for a single dataset.<br>Each of the notebooks serves the puropse of stand alone project.<br>Performance comparison is provided in 'ts_performace_summary.ipynb'
+Here, a lot of ground is covered in order to pin down the best forecaster for a single, univariate time series.
+Performance comparison is provided in 'ts_performance_summary.ipynb'.
