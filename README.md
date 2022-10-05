@@ -1,5 +1,6 @@
 # Univariate-time-series-forecasting
 Here, a lot of ground is covered in order to pin down the best forecaster for a single, univariate time series.<br>
-Performance comparison is provided in 'ts_performance_summary.ipynb'.<br>
 <br>
-Libraries employed: numpy, pandas, matplotlib, statsmodels, facebook Kats, sktime, sklearn, neuralprophet.
+Libraries employed: numpy, pandas, matplotlib, statsmodels, facebook Kats, sktime, sklearn, neuralprophet.<br>
+<br>
+Performance comparison is provided in 'ts_performance_summary.ipynb'.
