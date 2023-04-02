@@ -1,6 +1,6 @@
 # Univariate-time-series-forecasting
 Here, a lot of ground is covered in order to pin down the best forecaster for a single, univariate time series.<br>
-Direct 60-day and rolling 1-day forecast horizon is considered.<br> 
+Direct 60-day and rolling 1-day forecast horizons are considered.<br> 
 <br>
 Libraries employed: numpy, pandas, matplotlib, statsmodels, facebook Kats, sktime, sklearn, neuralprophet.<br>
 <br>
