@@ -1,5 +1,5 @@
 # Univariate-time-series-forecasting
-A single univariate time series is analyzed using five distinct prediction strategies, each competing against the others to determine the most effective forecaster.<br>
+A single univariate time series is analyzed using five distinct prediction strategies, each competing against the others to determine the most effective forecaster.
 Both, direct 60-day and rolling 1-day forecast horizons, are considered and evaluated.<br> 
 <br>
 ts1: facebook Prophet, perfect quick benchmark.<br>
