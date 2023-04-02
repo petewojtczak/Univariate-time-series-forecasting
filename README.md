@@ -8,7 +8,7 @@ ts3: Kats metalearning. Scalable time-series autoML.<br>
 ts4: Prior to performing grid search on Sklearn algorithms, the time series data is tabularized.<br>
 ts5: The autoregressive neural network approach based on PyTorch.
 <br><br>
-ts: Performance comparison (MAPE, RMSE, MAE).<br><br> 
+ ts: Performance comparison (MAPE, RMSE, MAE).<br><br> 
 Libraries employed: numpy, pandas, matplotlib, statsmodels, facebook Kats, sktime, sklearn, neuralprophet.<br>
 <br>
 Data source: https://www.kaggle.com/datasets/mukeshmanral/univariate-time-series
