@@ -2,7 +2,7 @@
 A single univariate time series is analyzed using five distinct prediction strategies, each competing against the others to determine the most effective forecaster.
 Both, direct 60-day and rolling 1-day forecast horizons, are considered and evaluated.<br> 
 <br>
-ts1: facebook Prophet, perfect quick benchmark.<br>
+ts1: facebook Prophet, perfect, quick benchmark.<br>
 ts2: Manually tuned, old-fashion SARIMA approach.<br>
 ts3: Kats metalearning. Scalable time-series autoML.<br>
 ts4: Prior to performing grid search on sklearn algorithms, the time series data is tabularized for compliance.<br>
