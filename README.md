@@ -1,14 +1,8 @@
-# Univariate-time-series-forecasting
-A single univariate time series is analyzed using five distinct prediction strategies, each competing against the others to determine the most effective forecaster.
-Both, direct 60-day and rolling 1-day forecast horizons, are considered and evaluated.<br> 
-<br>
-ts1: facebook Prophet, perfect, quick benchmark.<br>
-ts2: Manually tuned, old-fashion SARIMA approach.<br>
-ts3: Kats metalearning. Scalable time-series autoML.<br>
-ts4: Prior to performing grid search on sklearn algorithms, the time series data is tabularized for compliance.<br>
-ts5: The autoregressive neural network approach based on PyTorch.
-<br><br>
- ts: Performance comparison (MAPE, RMSE, MAE).<br><br> 
-Libraries employed: numpy, pandas, matplotlib, statsmodels, facebook Kats, sktime, sklearn, neuralprophet.<br>
-<br>
+## Contents
+1. **Time-series data exploration** <br> _Time-series plot<br>Time-series decomposition_
+2. **Models and parameters identification** <br>_SARIMA fine-tuning<br>Kats metalearning_
+3. **Machine learning setup** <br> _Datasets<br>Methods and models_
+4. **Training and Forecasting** <br> _Direct 60-day forecasting (fh=60)<br>Rolling 1-day forecasting (fh=1)_
+5. **Models comparison** <br>_Performance summarization._
+
 Data source: https://www.kaggle.com/datasets/mukeshmanral/univariate-time-series
